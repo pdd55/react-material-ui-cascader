@@ -1,0 +1,19 @@
+{
+  "extends": "eslint-config-bugly",
+  "rules": {
+    "consistent-return": "off",
+    "no-param-reassign": "off",
+    "react/sort-comp": "off",
+    "react/no-danger": "off",
+    "react/no-find-dom-node": "off",
+    "react/prefer-stateless-function": "off",
+    "no-confusing-arrow": "off",
+    "react/jsx-boolean-value": "off",
+    "no-tabs": "off",
+    "linebreak-style": "off",
+    "react/no-unused-prop-types": "off",
+    "jsx-a11y/href-no-hash": "off",
+    "jsx-a11y/img-has-alt": "off"
+  },
+  "globals": {}
+}
