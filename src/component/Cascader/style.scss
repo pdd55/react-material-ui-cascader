@@ -1,0 +1,24 @@
+.rtf-cascader {
+  /* stylelint-disable selector-nested-pattern */
+
+  .MuiButton-label-135 {
+    border-bottom: 1px solid #000;
+    justify-content: space-between;
+  }
+
+  /* stylelint-enable selector-nested-pattern */
+
+  &__popper {
+    left: calc(100% + 1px);
+    top: 0;
+    z-index: 1;
+  }
+
+  &__icon--down {
+    margin-left: 5px;
+  }
+
+  &__icon--right {
+    margin: 0 -16px 0 15px;
+  }
+}

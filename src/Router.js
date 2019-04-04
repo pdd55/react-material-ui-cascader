@@ -20,10 +20,10 @@ const BasicRoute = () => (
             <Link to="/">App</Link>
           </li>
           <li>
-            <Link to="/home">home</Link>
+            <Link to="/home">home-cascader</Link>
           </li>
           <li>
-            <Link to="/detail">detail</Link>
+            <Link to="/detail">detail-redux</Link>
           </li>
           <li>
             <Link to="/topics">Topics</Link>
